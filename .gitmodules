@@ -6,3 +6,7 @@
 	path = self-learning
 	url = ./self-learning
 	datalad-id = bbe419bb-f182-436d-a4be-50b44e3e18fb
+[submodule "by-mishra"]
+	path = by-mishra
+	url = ./by-mishra
+	datalad-id = 57308fa4-99b3-46af-847c-46bc668f758c
