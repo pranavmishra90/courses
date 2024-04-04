@@ -2,3 +2,7 @@
 	path = enrolled
 	url = ./enrolled
 	datalad-id = 7c73b977-b6ad-42e7-9eb7-7765ba96678c
+[submodule "self-learning"]
+	path = self-learning
+	url = ./self-learning
+	datalad-id = bbe419bb-f182-436d-a4be-50b44e3e18fb
