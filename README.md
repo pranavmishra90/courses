@@ -1,7 +1,9 @@
-# Project <insert name>
+# Courses - Pranav Mishra
 
-## Dataset structure
+This datalad repository will have git submodules (datalad subdatasets) containing "coursework" for Pranav Mishra. This may include
 
-- All inputs (i.e. building blocks from other sources) are located in
-  `inputs/`.
-- All custom code is located in `code/`.
+- Classes I'm enrolled in (`/enrolled`)
+- Self learning / practice (`/self-learning`)
+- Course work I'm developing (`/by-mishra`)
+
+Access permissions may be restricted at a repository level.
