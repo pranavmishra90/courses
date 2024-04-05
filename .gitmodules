@@ -1,12 +1,12 @@
 [submodule "enrolled"]
 	path = enrolled
-	url = ./enrolled
+	url = git@github.com:pranavmishra90/courses-enrolled.git
 	datalad-id = 7c73b977-b6ad-42e7-9eb7-7765ba96678c
 [submodule "self-learning"]
 	path = self-learning
-	url = ./self-learning
+	url = git@github.com:pranavmishra90/courses-self-learning.git
 	datalad-id = bbe419bb-f182-436d-a4be-50b44e3e18fb
 [submodule "by-mishra"]
 	path = by-mishra
-	url = ./by-mishra
+	url = git@github.com:pranavmishra90/courses-by-mishra.git
 	datalad-id = 57308fa4-99b3-46af-847c-46bc668f758c
